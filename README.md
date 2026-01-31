@@ -30,4 +30,4 @@ As this is a **Deterministic Logic-based system** (non-Deep Learning), it operat
 └── README.md             # Project documentation
 ```
 
-![Project Demo](assets/Screenshot 2026-01-31 180421.png)
+![Project Demo](assets/Demo)
