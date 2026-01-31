@@ -25,7 +25,7 @@ As this is a **Deterministic Logic-based system** (non-Deep Learning), it operat
 ## 📂 Project Structure
 ```text
 ├── src/
-│   └── main.py           # Core detection script
+│   └── Tool-detector.py           # Core detection script
 ├── requirements.txt      # Dependency list (OpenCV, NumPy)
 └── README.md             # Project documentation
 ```
